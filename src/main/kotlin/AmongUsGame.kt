@@ -5,7 +5,7 @@ data class AmongUsGame(
 ) {
     companion object {
         const val MIN_PLAYERS = 2
-        const val MAX_PLAYERS = 10
+        const val MAX_PLAYERS = 11
     }
 
     init {
